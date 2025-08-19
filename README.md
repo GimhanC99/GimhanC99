@@ -4,14 +4,14 @@
 </p>
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*HSzoHLv7UcLStwbWcL6o3A.png" width="1000" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="1000" />
 </p>
 
 <h1 align="center">🔌 Chathuranga Gimhan | AI & Engineering Explorer</h1>
 <h3 align="center">Electrical & Electronic Engineering Undergraduate @ University of Jaffna ⚡</h3>
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1048/1048949.png" width="280" alt="Engineering + AI Logo" />
+  <img src="https://media.licdn.com/dms/image/v2/D5612AQHqCL_nQX8KuQ/article-cover_image-shrink_720_1280/B56ZgOc9WaHMAM-/0/1752589130161?e=2147483647&v=beta&t=gvcLG14Bw5vF2CS4fjL_GKGdcwAOBMSfE8-_ji4dlRs" width="400" alt="Engineering + AI Logo" />
 </p>
 
 <p align="center">
