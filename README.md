@@ -1,40 +1,54 @@
-# Hi there 👋, I'm Chathuranga Gimhan  
+# 👋 Hi, I'm Chathuranga Gimhan  
 
-🎓 **Undergraduate Student**  
-Electrical and Electronic Engineering | University of Jaffna  
+🎓 **Undergraduate Student** in **Electrical and Electronic Engineering**  
+📍 **University of Jaffna, Sri Lanka**  
 
 ---
 
 ## 🚀 About Me  
-- 🌱 Currently pursuing my **BSc in Electrical and Electronic Engineering**  
-- 🤖 Passionate about **Machine Learning (ML)**, **Deep Learning (DL)**, and **Generative AI**  
-- 💡 Exploring **Agentic AI, Retrieval-Augmented Generation (RAG), and Chatbots**  
-- 🔭 Interested in applying AI to solve real-world engineering and societal problems  
+
+- ⚡ Passionate about **Machine Learning (ML), Deep Learning (DL), Generative AI, Agentic AI, and IoT**  
+- 🔌 Strong foundation in **Electrical & Electronic Engineering**  
+- 🤖 Exploring the intersection of **AI + Engineering** to build intelligent systems  
+- 📚 Currently working on projects combining **AI + IoT + Embedded Systems**  
 
 ---
 
-## 🛠️ Skills & Tools  
-- **Programming**: Python, C, MATLAB  
-- **AI/ML**: TensorFlow, PyTorch, Scikit-learn  
-- **Generative AI**: LangChain, RAG, Agentic AI, Chatbot Development  
-- **Embedded Systems**: Arduino, ESP32, IoT-based Applications  
-- **Other Tools**: Git, Google Colab, Jupyter Notebooks, MATLAB/Simulink  
+## 🔧 Tech Stack & Interests  
+
+- **Programming:** Python, C, MATLAB  
+- **AI & ML:** TensorFlow, PyTorch, LangChain, HuggingFace  
+- **Generative AI:** LLMs (Gemini, OpenAI, etc.), Agentic AI  
+- **IoT & Hardware:** ESP32, Arduino, Embedded Systems  
+- **Engineering:** Power Systems, Electronics, Control Systems  
 
 ---
 
-## 📂 Projects & Research  
-- 🤖 **RAG-based Chatbot** – Building intelligent document-based question-answering systems  
-- 📊 **ML/DL Models** – Image classification, clustering, and predictive modeling  
-- 🐟 **IoT Smart Fish Tank** – ESP32 + Flutter + Firebase based automation system  
-- 🦷 **Research Project** – *Predicting a Risk Assessment Tool for Third Molar Surgery based on X-ray Images* (Deep Learning + Image Processing)  
+## 📌 Featured Projects  
+
+- 🐠 **IoT Smart Fish Tank** – Automated monitoring & control using ESP32 + Firebase + Flutter  
+- 🦷 **Dental Risk Assessment Tool** – X-ray based ML model to predict surgery risks  
+- 🎶 **AI for Education** – Animated learning content for kids using Generative AI  
+- 🤖 **RAG Chatbot** – Document-based Q&A system with LangChain + Gemini  
 
 ---
 
-## 🌐 Connect with Me  
-- 📧 Email: [Your Email Here]  
-- 💼 LinkedIn: [Your LinkedIn Profile](#)  
-- 🐙 GitHub: [Chathuranga Gimhan](https://github.com/your-username)  
+## 🌱 Currently Learning  
+- Efficient **Deep Learning architectures**  
+- **Multi-modal AI models**  
+- **Agentic AI** for autonomous decision making  
+- **Cloud & Edge AI** for IoT applications  
 
 ---
 
-⭐️ *"I’m always open to learning, collaborating, and building innovative AI-driven solutions."*
+## 📫 Connect with Me  
+
+- 🔗 [LinkedIn](https://www.linkedin.com/) _(add your link)_  
+- 💻 [GitHub](https://github.com/UdaraChamidu)  
+- 📧 **chathurangagimhan@example.com** _(replace with your email)_  
+
+---
+
+## ⚡ Quote I Believe In  
+
+> *"Engineering + AI = The future we create."* 🚀  
