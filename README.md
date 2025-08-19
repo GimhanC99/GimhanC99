@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png](https://miro.medium.com/v2/resize:fit:1400/1*HSzoHLv7UcLStwbWcL6o3A.png" width="1000" />
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*HSzoHLv7UcLStwbWcL6o3A.png" width="1000" />
 </p>
 
 <h1 align="center">🔌 Chathuranga Gimhan | AI & Engineering Explorer</h1>
