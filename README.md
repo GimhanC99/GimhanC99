@@ -11,7 +11,7 @@
 <h3 align="center">Electrical & Electronic Engineering Undergraduate @ University of Jaffna ⚡</h3>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5612AQHqCL_nQX8KuQ/article-cover_image-shrink_720_1280/B56ZgOc9WaHMAM-/0/1752589130161?e=2147483647&v=beta&t=gvcLG14Bw5vF2CS4fjL_GKGdcwAOBMSfE8-_ji4dlRs" width="600" alt="Engineering + AI Logo" />
+  <img src="https://media.licdn.com/dms/image/v2/D5612AQHqCL_nQX8KuQ/article-cover_image-shrink_720_1280/B56ZgOc9WaHMAM-/0/1752589130161?e=2147483647&v=beta&t=gvcLG14Bw5vF2CS4fjL_GKGdcwAOBMSfE8-_ji4dlRs" width="500" alt="Engineering + AI Logo" />
 </p>
 
 <p align="center">
