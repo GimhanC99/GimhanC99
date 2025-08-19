@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="1000" />
+  <img src="[https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.devgenius.io%2Fboosting-developer-productivity-with-claude-and-model-context-protocol-mcp-servers-1d1851a8d55e&psig=AOvVaw2dB9vmH9Ef9FEWpyW3z3YR&ust=1755720359012000&source=images&cd=vfe&opi=89978449&ved=0CBgQjhxqFwoTCPiczqLWl48DFQAAAAAdAAAAABAE)" width="1000" />
 </p>
 
 <h1 align="center">🔌 Chathuranga Gimhan | AI & Engineering Explorer</h1>
